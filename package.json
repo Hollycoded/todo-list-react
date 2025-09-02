@@ -1,8 +1,8 @@
 {
-  "name": "todo-list-react",   
-  "homepage":"https://BharathPadavu.github.io/todo-list-react",
+  "name": "todo-list-react",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://YOUR-USERNAME.github.io/todo-list-react",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.8.0",
